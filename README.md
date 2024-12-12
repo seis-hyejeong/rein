@@ -1,4 +1,4 @@
-rein [rain]: REverberation waveform Inversion
+rein [rain]: REverberation waveform INversion
 
 The current version is released with the publication at Geophysical Journal International on December 12, 2024. 
 
