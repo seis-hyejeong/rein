@@ -14,4 +14,5 @@ While the manual is under construction, do not hesitate reaching out to hkim.geo
 References:
 
 Kim, H. J., Kawakatsu, H., Akuhara, T., & Takeuchi, N. (2023). Characterizing the seafloor sediment layer using teleseismic body waves recorded by ocean bottom seismometers. Journal of Geophysical Research: Solid Earth, 128, e2023JB027616. https://doi.org/10.1029/2023JB027616
+
 Kim, H. J., Kawakatsu, H., Akuhara, T., Takeuchi, N., Isse, T., Shiobara, H., Sugioka, H., Utada, H., Kim, Y.H., Lee, S.-M. (2024). Application of the reverberation waveform inversion for the high-resolution sediment layer structure in the Pacific. Geophysical Journal International, 240, 2, 1331–1344, https://doi.org/10.1093/gji/ggae444
