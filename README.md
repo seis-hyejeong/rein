@@ -8,3 +8,5 @@ This version inverts for
 2) teleseismic S wave pressure autocorrelation function
 3) teleseismic P/S wave radial autocorrelation function
 4) Radial component of teleseismic P-wave
+
+While the manual is under construction, do not hesitate reaching out to hkim.geo@gmail.com for questions about the usage.
